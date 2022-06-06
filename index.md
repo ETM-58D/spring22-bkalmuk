@@ -7,4 +7,4 @@
 
 * [Here](HW4/HW4.html) is my homework 4
 
-* [Here](Final/Final.html) is my Final
+* [Here](Final/final.html) is my Final
